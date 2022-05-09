@@ -6,8 +6,8 @@
   
 <div align="left">
   <a href="https://github.com/leticiahcandido">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticiahcandido&show_icons=true&theme=flag-india"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiahcandido&layout=compact&langs_count=7&theme=flag-india"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticiahcandido&show_icons=true&theme=material-palenight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiahcandido&layout=compact&langs_count=7&theme=material-palenight"/>
  
 <h4>Connect with me:</h4>
   <hr>
