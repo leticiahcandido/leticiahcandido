@@ -6,8 +6,8 @@
   
 <div align="left">
   <a href="https://github.com/leticiahcandido">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticiahcandido&show_icons=true&theme=material-palenight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiahcandido&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticiahcandido&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiahcandido&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 <div>
@@ -19,5 +19,9 @@
 <div>
 <h4>Languages and Tools:</h4>
   <hr>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
+  
 </div>
