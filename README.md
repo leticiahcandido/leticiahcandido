@@ -10,8 +10,8 @@
  </div>
  
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=leticiahcandido" alt="stats graph" width="425px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiahcandido&theme=dark&locale=en&layout=compact&hide=python"/>
+    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&username=leticiahcandido" alt="stats graph" width="425px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiahcandido&theme=material-palenight&locale=en&layout=compact&hide=python"/>
 </div>
  
 <div>
@@ -26,7 +26,7 @@
   <img align="center" alt="Letty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Letty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Letty-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Letty-Bt" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Letty-Git" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Letty-Bt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Letty-Git" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
 </div>
 
