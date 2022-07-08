@@ -1,12 +1,17 @@
-<center>
-  <h2 align="center">Hello! Welcome to my Github profile.</h2>
-  <h3 align="center">My name is Letícia and my nickname is "Letty"!</h3>
+<div align="center">
+<h2>Hello! Welcome to my Github profile.</h2>
+<h3>My name is Letícia and my nickname is "Letty"!</h3>
+ 
+![Visitors](https://komarev.com/ghpvc/?username=leticiahcandido&color=blue)
+[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)">](https://www.linkedin.com/in/leticiahcandido)
+[![GitHub followers](https://img.shields.io/github/followers/leticiahcandido.svg?style=social&label=Follow)](https://github.com/leticiahcandido?tab=followers)
   
-<br>
-  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=en&hide_border=false&username=leticiahcandido" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=calm&hide_border=false&username=leticiahcandido" height="150" alt="languages graph"  />
+ 🌱 I’m currently learning Web Development, Git 
+ </div>
+ 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=leticiahcandido" alt="stats graph" width="425px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiahcandido&theme=dark&locale=en&layout=compact&hide=python"/>
 </div>
  
 <div>
